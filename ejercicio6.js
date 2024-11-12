@@ -1,6 +1,6 @@
 // contador de palabras
 
-let text = "una frase tiene palabras ";
+let text = " una frase tiene palabras ";
 let n = 0;
 
 text = text.trim();  // para que no cuente los espacios como una palabra
